@@ -22,6 +22,7 @@ module.exports = ({ env }) => ({
       provider: 'dropbox',
       providerOptions: {
         accessToken: env('DROPBOX_TOKEN'),
+        // defaultUploadDir requires "/" at beginning and end, only single directory
         defaultUploadDir: "/uploads/"
       },
     },
