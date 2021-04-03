@@ -31,8 +31,8 @@ module.exports = ({ env }) => ({
 ## Compatibility
 Tested on Strapi v3.5.4 — Community Edition
 
-## License
 
+## License
 The MIT License (MIT)
 
 Copyright (c) 2021 [jasenmichael](https://github.com/jasenmichael)
