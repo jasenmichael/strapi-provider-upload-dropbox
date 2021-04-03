@@ -1,28 +1,28 @@
 {
-  "_from": "github:jasenmichael/strapi-provider-upload-dropbox",
-  "_id": "strapi-provider-upload-dropbox@1.0.2",
+  "_from": "github:jasenmichael/strapi-provider-upload-dropbox-v2",
+  "_id": "strapi-provider-upload-dropbox-v2@1.0.0",
   "_inBundle": false,
   "_integrity": "",
-  "_location": "/strapi-provider-upload-dropbox",
+  "_location": "/strapi-provider-upload-dropbox-v2",
   "_phantomChildren": {
     "buffer": "5.7.1",
     "moment": "2.29.1"
   },
   "_requested": {
     "type": "git",
-    "raw": "strapi-provider-upload-dropbox@github:jasenmichael/strapi-provider-upload-dropbox",
-    "name": "strapi-provider-upload-dropbox",
-    "escapedName": "strapi-provider-upload-dropbox",
-    "rawSpec": "github:jasenmichael/strapi-provider-upload-dropbox",
-    "saveSpec": "github:jasenmichael/strapi-provider-upload-dropbox",
+    "raw": "strapi-provider-upload-dropbox-v2@github:jasenmichael/strapi-provider-upload-dropbox-v2",
+    "name": "strapi-provider-upload-dropbox-v2",
+    "escapedName": "strapi-provider-upload-dropbox-v2",
+    "rawSpec": "github:jasenmichael/strapi-provider-upload-dropbox-v2",
+    "saveSpec": "github:jasenmichael/strapi-provider-upload-dropbox-v2",
     "fetchSpec": null,
     "gitCommittish": null
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "github:jasenmichael/strapi-provider-upload-dropbox#7b225d7be15b8e45f08acf51364cadf47e844dfc",
-  "_spec": "strapi-provider-upload-dropbox@github:jasenmichael/strapi-provider-upload-dropbox",
+  "_resolved": "github:jasenmichael/strapi-provider-upload-dropbox-v2#7b225d7be15b8e45f08acf51364cadf47e844dfc",
+  "_spec": "strapi-provider-upload-dropbox-v2@github:jasenmichael/strapi-provider-upload-dropbox-v2",
   "_where": "/home/me/dev/jcms/jcms-strapi",
   "author": {
     "name": "Luan Phan",
@@ -30,7 +30,7 @@
     "url": "https://luanphan.now.sh"
   },
   "bugs": {
-    "url": "https://github.com/phanluanint/strapi-provider-upload-dropbox/issues"
+    "url": "https://github.com/phanluanint/strapi-provider-upload-dropbox-v2/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -42,7 +42,7 @@
   "directories": {
     "lib": "./lib"
   },
-  "homepage": "https://github.com/phanluanint/strapi-provider-upload-dropbox#readme",
+  "homepage": "https://github.com/phanluanint/strapi-provider-upload-dropbox-v2#readme",
   "keywords": [
     "strapi",
     "dropbox",
@@ -54,14 +54,14 @@
   "maintainers": [
     {
       "name": "Luan Phan",
-      "email": "phanluanint@gmail.com",
-      "url": "https://luanphan.now.sh"
+      "email": "jasen@jasenmichael.com",
+      "url": "https://jasenmichael.com"
     }
   ],
-  "name": "strapi-provider-upload-dropbox",
+  "name": "strapi-provider-upload-dropbox-v2",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phanluanint/strapi-provider-upload-dropbox.git"
+    "url": "git+https://github.com/phanluanint/strapi-provider-upload-dropbox-v2.git"
   },
   "scripts": {
     "test": "echo \"no tests yet\""
