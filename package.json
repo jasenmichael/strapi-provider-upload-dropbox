@@ -1,0 +1,73 @@
+{
+  "_from": "github:jasenmichael/strapi-provider-upload-dropbox",
+  "_id": "strapi-provider-upload-dropbox@1.0.2",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/strapi-provider-upload-dropbox",
+  "_phantomChildren": {
+    "buffer": "5.7.1",
+    "moment": "2.29.1"
+  },
+  "_requested": {
+    "type": "git",
+    "raw": "strapi-provider-upload-dropbox@github:jasenmichael/strapi-provider-upload-dropbox",
+    "name": "strapi-provider-upload-dropbox",
+    "escapedName": "strapi-provider-upload-dropbox",
+    "rawSpec": "github:jasenmichael/strapi-provider-upload-dropbox",
+    "saveSpec": "github:jasenmichael/strapi-provider-upload-dropbox",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:jasenmichael/strapi-provider-upload-dropbox#7b225d7be15b8e45f08acf51364cadf47e844dfc",
+  "_spec": "strapi-provider-upload-dropbox@github:jasenmichael/strapi-provider-upload-dropbox",
+  "_where": "/home/me/dev/jcms/jcms-strapi",
+  "author": {
+    "name": "Luan Phan",
+    "email": "phanluanint@gmail.com",
+    "url": "https://luanphan.now.sh"
+  },
+  "bugs": {
+    "url": "https://github.com/phanluanint/strapi-provider-upload-dropbox/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "dropbox": "^5.2.1",
+    "node-fetch": "^2.6.1"
+  },
+  "deprecated": false,
+  "description": "Dropbox upload provider for Strapi",
+  "directories": {
+    "lib": "./lib"
+  },
+  "homepage": "https://github.com/phanluanint/strapi-provider-upload-dropbox#readme",
+  "keywords": [
+    "strapi",
+    "dropbox",
+    "upload",
+    "provider"
+  ],
+  "license": "MIT",
+  "main": "./lib",
+  "maintainers": [
+    {
+      "name": "Luan Phan",
+      "email": "phanluanint@gmail.com",
+      "url": "https://luanphan.now.sh"
+    }
+  ],
+  "name": "strapi-provider-upload-dropbox",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phanluanint/strapi-provider-upload-dropbox.git"
+  },
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "strapi": {
+    "isProvider": true
+  },
+  "version": "1.0.2"
+}
