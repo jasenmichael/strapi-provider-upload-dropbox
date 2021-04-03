@@ -3,6 +3,9 @@
 Dropbox upload provider for Strapi
 forked from [phanluanint/strapi-provider-upload-dropbox](https://github.com/phanluanint/strapi-provider-upload-dropbox)
 
+## Compatibility
+Tested on Strapi v3.5.4 — Community Edition
+
 ## Installation
 ```
 npm i github:jasenmichael/strapi-provider-upload-dropbox-v2
@@ -28,10 +31,6 @@ module.exports = ({ env }) => ({
     },
   });
 ```
-
-## Compatibility
-Tested on Strapi v3.5.4 — Community Edition
-
 
 ## License
 The MIT License (MIT)
