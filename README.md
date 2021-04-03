@@ -28,10 +28,8 @@ module.exports = ({ env }) => ({
   });
 ```
 
-
 ## Compatibility
 Tested on Strapi v3.5.4 — Community Edition
-
 
 ## License
 
